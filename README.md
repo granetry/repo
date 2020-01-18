@@ -1,1 +1,1 @@
-This directory will hold as a place to post projects outside of academia 
+This directory will serve as a directory for projects outside academia 
