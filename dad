@@ -1,0 +1,35 @@
+[33mcommit f8d43c18ceefb13dfa32cfa33e0ece9cfffdbbaa[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Ryan Granet <granetry@msu.edu>
+Date:   Thu Jan 16 18:01:03 2020 -0500
+
+    Added State function and Tax function. Need to complete city.
+
+[33mcommit 591709644c71e35b8bad4407fc0a6c61fe856ed6[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: Ryan Granet <granetry@msu.edu>
+Date:   Thu Jan 16 14:46:14 2020 -0500
+
+    Added graphing to the Federal function
+
+[33mcommit eb9cdd9723681410170041d4cbd0d4ac72ca5c98[m
+Author: Ryan Granet <granetry@msu.edu>
+Date:   Thu Jan 16 14:36:32 2020 -0500
+
+    wasnt sure if i made any changes.
+
+[33mcommit aa04d2239e275abc0211ef55902627bbbf8365dd[m
+Author: Ryan Granet <granetry@msu.edu>
+Date:   Thu Jan 16 13:41:50 2020 -0500
+
+    Changed the Federal function to output paid tax, income, and taxable income
+
+[33mcommit b038884b5e00b575d63e8a7d0fc358dfe0e37d0f[m
+Author: Ryan Granet <granetry@msu.edu>
+Date:   Thu Jan 16 13:20:59 2020 -0500
+
+    Adding Tax Project to repo
+
+[33mcommit cf3622794c1f2c528de9f88c8902f8baa59fb2c9[m
+Author: Ryan Granet <granetry@msu.edu>
+Date:   Thu Jan 16 13:13:06 2020 -0500
+
+    Add README.md
